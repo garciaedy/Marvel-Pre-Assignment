@@ -11,3 +11,27 @@ body {
     background-color: #f9f9f9;
     color: #333;
 }
+
+nav {
+    background-color: #4e5b79;
+    padding: 1rem;
+}
+
+#nav-list {
+    list-style: none;
+    display: flex;
+    gap: 1rem;
+}
+
+#nav-list li a {
+    color: #c76e3a;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 0.5rem 1rem;
+    border-radius: 4px;
+}
+
+#nav-list li a:hover {
+    background-color: #61dafb;
+    color: #20232a;
+}
