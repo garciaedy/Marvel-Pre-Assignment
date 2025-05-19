@@ -18,6 +18,5 @@ This is a front-end project built using **HTML**, **CSS**, and **JavaScript**. I
 - Uses two API endpoints:
   - `/characters`
   - `/characters/{id}/comics`
-- Built with zero frameworks. No React, no Python, no backend.
 
 
