@@ -10,7 +10,7 @@ This is a front-end project built using **HTML**, **CSS**, and **JavaScript**. I
 
 ---
 
-## 🎯 Features
+##  Features
 
 - Displays 10 Marvel characters using the Marvel API.
 - Shows each character’s image, name, and description.
